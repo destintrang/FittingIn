@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CoinManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GravityControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="65" Column="5" />
+      <File FileName="Assets\Scripts\Trampoline.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d-extras-master\Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor\PrefabBrush.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d-extras-master\Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor\TileBrush.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Camera2DFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PositionFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Coin.cs" Line="27" Column="12" />
+      <File FileName="Assets\Scripts\CoinManager.cs" Line="29" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

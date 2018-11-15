@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb02cf3e2b045045ab30a9f62beaf39, type: 3}
+  m_Name: Smart Tile Brush
+  m_EditorClassIdentifier: 
+  topLeft: {fileID: 1963777732703892, guid: d3a36ab2182a0ce4e912873fc5230f8d, type: 2}
+  topMiddle: {fileID: 1734050104689704, guid: 73cc633bb2553e544baccedd337ca92e, type: 2}
+  topRight: {fileID: 1800426780949314, guid: e7d0ce187d4af8a4d807e86b4332372d, type: 2}
+  middleLeft: {fileID: 1520824881410388, guid: 2e3aeecf8bb96a94885347c53442ca35, type: 2}
+  middle: {fileID: 1947831758836086, guid: e5932878f5d5f1d45a9c9ab93fff2af3, type: 2}
+  middleRight: {fileID: 1775079013018108, guid: 7148c717a18e3164d9cdeb0084a57ebe,
+    type: 2}
+  bottomLeft: {fileID: 1467143125579874, guid: d9d516e4c843d304690cb64b413b262c, type: 2}
+  bottomMiddle: {fileID: 1803660295677270, guid: ed8871280c3b6d548a9ed0369610dbe7,
+    type: 2}
+  bottomRight: {fileID: 1738509302315024, guid: 5563522cc8a3e6d40ac7163650f6ec44,
+    type: 2}
+  m_PerlinScale: 0.5
+  m_Z: 0
